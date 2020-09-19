@@ -1,1 +1,1 @@
-screenshot ![](https://docs.rs.school/images/fancy-weather.png)
+screenshot ![](https://https://drive.google.com/file/d/10Te9X_DGZuy86G-xqrwAAuqmgxohrQko/view)
