@@ -1,1 +1,1 @@
-screenshot ![](drive.google.com/file/d/10Te9X_DGZuy86G-xqrwAAuqmgxohrQko/view)
+screenshot ![](https://github.com/EgorSuschenko/test/blob/master/header-bg.png)
